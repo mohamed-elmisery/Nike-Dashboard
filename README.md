@@ -30,10 +30,9 @@ We focused on matching the **Nike website theme**, using similar **color palette
 - Team members & instructor (DEPI Program)
 
 ## 📷 Preview
-![Dashboard Preview]("C:\Users\Scope\Desktop\nike dash\Screenshot 2025-10-18 144954.png")
-![Dashboard Preview]("C:\Users\Scope\Desktop\nike dash\Screenshot 2025-10-18 145007.png")
-![Dashboard Preview]("C:\Users\Scope\Desktop\nike dash\Screenshot 2025-10-18 145020.png")
-
+![Dashboard Preview 1](images/dashboard1.png)
+![Dashboard Preview 2](images/dashboard2.png)
+![Dashboard Preview 3](images/dashboard3.png)
 ## 🧩 How to View
 You can download the `.pbix` file and open it with **Power BI Desktop** to explore all visuals interactively.
 
