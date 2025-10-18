@@ -30,7 +30,7 @@ We focused on matching the **Nike website theme**, using similar **color palette
 - Team members & instructor (DEPI Program)
 
 ## 📷 Preview
-![Dashboard Preview 1](images/dashboard1.png)
+![Dashboard Preview 1](Screenshot 2025-10-18 144954.png)
 ![Dashboard Preview 2](images/dashboard2.png)
 ![Dashboard Preview 3](images/dashboard3.png)
 ## 🧩 How to View
